@@ -1,30 +1,30 @@
 export default {
   /**************
-  method: Legal
+  method: Authority
   params: packet
   describe: The global service feature that installs with every agent
   ***************/
-  justice(packet) {
+  authority(packet) {
     this.context('feature');
     return new Promise((resolve, reject) => {
-      const legal = this.legal();
+      const authority = this.authority();
       const data = {};
-      this.question(`#docs raw feature/legal`).then(doc => {
+      this.question(`#docs raw feature/authority`).then(doc => {
         data.doc = doc.a.data;
         const info = [
-          `## Legal`,
-          `::begin:legal:${legal.id}`,
-          `client: ${legal.client_name}`,
-          `concerns: ${legal.concerns.join(', ')}`,
-          `::end:legal:${this.hash(legal)}`,
+          `## Authority`,
+          `::begin:authority:${authority.id}`,
+          `client: ${authority.client_name}`,
+          `concerns: ${authority.concerns.join(', ')}`,
+          `::end:authority:${this.hash(authority)}`,
         ].join('\n');
         const text = doc.a.text.replace(/::info::/g, info)
-        return this.question(`#feecting parse ${text}`)
+        return this.question(`${this.askChr}feecting parse ${text}`)
       }).then(feecting => {
         return resolve({
           text: feecting.a.text,
           html: feecting.a.html,
-          data: legal
+          data: authority
         });
       }).catch(err => {
         return this.error(err, packet, reject);
