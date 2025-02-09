@@ -1,0 +1,32 @@
+{
+  "id": 2786414868244,
+  "name": "@indra.ai/deva.authority",
+  "version": "0.0.0",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Authority Deva manages Authority ensuring Quinn Michaels and his intellectual property is managed properly.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.legal.git"
+  },
+  "keywords": [
+    "Authority",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.legal/issues"
+  },
+  "homepage": "https://github.com/indraai/deva.legal#readme",
+  "dependencies": {
+    "@indra.ai/deva": "^1.3.6"
+  }
+}
