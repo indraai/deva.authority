@@ -38,35 +38,7 @@ const AUTHORITY = new Deva({
   modules: {},
   deva: {},
   func: {},
-  methods: {
-    /**************
-    method: file
-    params: packet
-    describe: The view method replays the request to the view function to return
-    a document from the text parameter.
-    ***************/
-    file(packet) {      
-      this.context('file', packet.q.text);
-      this.action('method', `file:${packet.q.text}`);
-      const agent = this.agent();
-      return new Promise((resolve, reject) => {
-        this.state('get', packet.q.text);
-        const doc = this.func.file(packet.q);
-        this.question(`${this.askChr}feecting parse ${doc}`).then(feecting => {
-          this.state('resolve', `view:${packet.q.text}`);
-          return resolve({
-            text: feecting.a.text,
-            html: feecting.a.html,
-            data: feecting.a.data,
-          });
-        }).catch(err => {
-          this.context('reject', `view:${packet.q.text}`);
-          return this.error(err, packet, reject);
-        })
-      });
-    },    
-    
-  },
+  methods: {},
   onReady(data, resolve) {
     this.prompt(this.vars.messages.ready);
     return resolve(data);
