@@ -33,6 +33,8 @@
         "describe": "Authority Deva is responsible for handling authority issues in Deva.world.",
         "emoji": "/public/devas/deva/emoji.png",
         "avatar": "/public/devas/deva/avatar.png",
+        "color": "#ffffff",
+        "bgcolor": "#000000",
         "background": "/public/devas/deva/background.png",
         "voice": "onyx"
       }
@@ -56,7 +58,7 @@
         "feature": "accessing feature",
         "issue": "has issues",
         "help": "asking for help",
-        "file": "📁 View file."
+        "file": "📁 File"
       },
       "ask": {
         "history": []
