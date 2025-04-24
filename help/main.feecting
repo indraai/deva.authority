@@ -1,14 +1,12 @@
-# {{profile.name}}
+::BEGIN:MAIN
+# {{profil.ename}}
 
 {{profile}}
-
-talk: #security file:public main:header
-talk: #algorithm file:public main:header
-
-copyright: (c)2025 Quinn Michaels
 
 ::begin:hidden
 #color = {{profile.color}}
 #bgcolor = {{profile.bgcolor}}
-#bg = {{profile.background}}
+#bg = {{profile.bg}}
 ::end:hidden
+copyright: (c)2025 Quinn Michaels
+::END:MAIN
