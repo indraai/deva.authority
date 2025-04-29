@@ -38,14 +38,14 @@
         "text": "Authority",
         "colors": {
           "label": {
-            "R": 248,
-            "G": 18,
-            "B": 19
+            "R": 193,
+            "G": 230,
+            "B": 135
           },
           "text": {
-            "R": 18,
-            "G": 94,
-            "B": 248
+            "R": 229,
+            "G": 227,
+            "B": 180
           }
         }
       },
@@ -53,21 +53,21 @@
         "name": "#AuthorityDeva",
         "title": "Authority Deva",
         "subtitle": "The Authority Deva ensuring criminals are caught",
-        "describe": "Authority Deva is responsible for handling authority issues.",
-        "tweet": "Authority Deva is handling authority issues in Deva.world.",
+        "describe": "Authority Deva dedicated guide in navigating the intricate world of authority and governance. Ensuring that all matters related to authority are handled with precision and integrity, safeguarding the principles of justice and order.",
+        "tweet": "Authority Deva dedicated guide in navigating the intricate world of authority and governance.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,AuthorityDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
-        "style": "A very disciplined authority figure who gives matter of fact presentations.",
+        "style": "A disciplined authority who follows the law of the land.",
         "voice": "ash",
         "system": "Deva.world.authority",
         "layout": "default",
-        "color": "rgb(255,255,255)",
-        "bgcolor": "rgb(0,0,0)",
-        "emoji": "/assets/devas/authority/emoji.png",
-        "avatar": "/assets/devas/authority/avatar.png",
-        "image": "/assets/devas/authority/image.png",
-        "background": "/assets/devas/authority/background.png",
+        "color": "rgb(229,227,180)",
+        "bgcolor": "rgb(25,37,58)",
+        "emoji": "https://indra.ai/assets/devas/authority/emoji.png",
+        "avatar": "https://indra.ai/assets/devas/authority/avatar.png",
+        "image": "https://indra.ai/assets/devas/authority/image.png",
+        "background": "https://indra.ai/assets/devas/authority/background.png",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
         "created": "February 7, 2025 at 8:02 PM"
