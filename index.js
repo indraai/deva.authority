@@ -32,7 +32,14 @@ const AUTHORITY = new Deva({
     parse(input) {return input.trim();},
     process(input) {return input.trim();}
   },
-  listeners: {},
+  listeners: {
+    'devacore:question'(packet) {
+      const echo = this.methods.echo('authority', 'q', packet);
+    },
+    'devacore:answer'(packet) {
+      const echo = this.methods.echo('authority', 'a', packet);
+    }
+  },
   modules: {},
   deva: {},
   func: {},
