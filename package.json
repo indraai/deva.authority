@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/indraai/deva.legal#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.52"
+    "@indra.ai/deva": "^1.5.53"
   },
   "data": {
     "agent": {
@@ -72,7 +72,22 @@
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
         "created": "February 7, 2025 at 8:02 PM"
-      }
+      },
+      "laws": [
+        "Taking human life through poison, weapons or other means of destruction, indecent assault on another man's wife, and whatever other offences encompassing life may be imagined, is called Sâhasa of the highest degree.",
+        "Destroying, reviling, disfiguring or otherwise injuring fruits, roots, water and the like, or agricultural utensils, is declared to be Sâhasa of the first degree.",
+        "Injuring in the same way clothes, cattle, food, drink, or household utensils, is declared to be Sâhasa of the middlemost degree.",
+        "Taking human life through poison, weapons or other means of destruction, indecent assault on another man's wife, and whatever other offences encompassing life (may be imagined), is called Sâhasa of the highest degree.",
+        "The punishment to be inflicted for it must be proportionate to the heaviness of the crime not to be less than a hundred Panas for Sâhasa of the first degree",
+        "Sâhasa of the middlemost degree the punishment is declared by persons acquainted with the law to be no less than five hundred (Panas).",
+        "Sâhasa of the highest degree, a fine amounting to no less than a thousand (Panas) is ordained, confiscation of the entire property.",
+        "Those who have committed Sâhasa of either of the two first degrees are allowed to mix in society, after having been punished",
+        "If a man has committed Sâhasa of the highest degree, no one is allowed to speak to him, even when he has received punishment.",
+        "Sâhasa is where the criminal act consists of a forcible attack, theft is where it is done by fraud.",
+        "Those who give food or shelter to thieves seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their crime themselves.",
+        "Those who do not come to offer assistance, when people are crying out (for help) within their hearing, or when property is being taken away, are likewise accomplices in the crime.",
+        "When the thieves are not caught, the government must make good the loss from it's own treasury."
+      ]
     },
     "vars": {
       "messages": {
