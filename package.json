@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/indraai/deva.legal#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.41"
+    "@indra.ai/deva": "^1.6.42"
   },
   "data": {
     "agent": {
