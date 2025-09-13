@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/indraai/deva.legal#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.63"
+    "@indra.ai/deva": "^1.6.64"
   },
   "data": {
     "agent": {
@@ -94,7 +94,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ READY!",
+        "ready": "🚓 Ready for Authority Jurisdiction.",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
