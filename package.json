@@ -1,10 +1,39 @@
 {
-  "id": 2786414868244,
+  "id": "71523984134178103195",
   "name": "@indra.ai/deva.authority",
   "version": "0.0.79",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "(c)2025 Quinn Michaels; All rights reserved.",
+  "license": "VLA:71153924143258087294 LICENSE.md",
+  "VLA": {
+    "uid": "71523984134178103195",
+    "time": 1757957277625,
+    "date": "Monday, September 15, 2025 - 10:27:57 AM",
+    "client": "OllqfYj7iGRhFTlVEFp3tg80jeU7qyWtBNlK9yVB7Tw=",
+    "agent": "0Xs0+XWicto5obwIX2M4xfVeWF3orerxhYdi2/nA/c0=",
+    "pkg": "mrup8Mq7zFZCb4etI4yUEwn3KMiFwbP/UMJyzOSUXAg=",
+    "machine": "IwigV5wuJv1xzVbhudrFyASTF3Qhc25b/3uohxSiUp0=",
+    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
+    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "KQ6+qZfSO4SRXAOPksEpzg==",
+    "sha256": "9R5qKnf0Wdh2dxUPqJHAk2fcL4EAhfl48HhMbEj6PcM=",
+    "sha512": "FVcVRb8lC9lSoQMiYCyzNvqbhuwgwO1/zqQ4L1AdcsVuGC0gj3IoCrlSlFiD5OmAb1XvrkJd1QfG5OKom28Z1A=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Authority Deva manages Authority ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -34,7 +63,7 @@
       "id": 5474928441638,
       "key": "authority",
       "prompt": {
-        "emoji": "👮",
+        "emoji": "🚔",
         "text": "Authority",
         "colors": {
           "label": {
@@ -94,7 +123,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "🚓 Ready for Authority Jurisdiction.",
+        "ready": "Ready for Lawful Authorities",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
