@@ -1,21 +1,21 @@
 {
-  "id": "71523984134178103195",
+  "id": "21484631554539747920",
   "name": "@indra.ai/deva.authority",
   "version": "0.0.95",
-  "license": "VLA:71153924143258087294 LICENSE.md",
+  "license": "VLA:21484631554539747920 LICENSE.md",
   "VLA": {
-    "uid": "71523984134178103195",
-    "time": 1757957277625,
-    "date": "Monday, September 15, 2025 - 10:27:57 AM",
-    "client": "OllqfYj7iGRhFTlVEFp3tg80jeU7qyWtBNlK9yVB7Tw=",
-    "agent": "0Xs0+XWicto5obwIX2M4xfVeWF3orerxhYdi2/nA/c0=",
-    "pkg": "mrup8Mq7zFZCb4etI4yUEwn3KMiFwbP/UMJyzOSUXAg=",
-    "machine": "IwigV5wuJv1xzVbhudrFyASTF3Qhc25b/3uohxSiUp0=",
-    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
-    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "KQ6+qZfSO4SRXAOPksEpzg==",
-    "sha256": "9R5qKnf0Wdh2dxUPqJHAk2fcL4EAhfl48HhMbEj6PcM=",
-    "sha512": "FVcVRb8lC9lSoQMiYCyzNvqbhuwgwO1/zqQ4L1AdcsVuGC0gj3IoCrlSlFiD5OmAb1XvrkJd1QfG5OKom28Z1A=="
+    "uid": "21484631554539747920",
+    "time": 1758423723873,
+    "date": "Saturday, September 20, 2025 - 8:02:03 PM",
+    "client": "1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=",
+    "agent": "Hhw5m5g6s8gns0BnCUywGb/KxDENvxXnpUmWL9pQoss=",
+    "core": "qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=",
+    "machine": "qGn3KV6Vg/ajrt/B1NxKM640YurUeuyDkAwHLe4pcvk=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "pGf+Ldp9cpCZtLqWMbS+BA==",
+    "sha256": "fAlHzCXksqngPUn0mpAo726//DRxXLqVol9LAwL+Xuk=",
+    "sha512": "g/HuR1bipeNudPDErlVVUpmpttUnJ0IVNosk2ORl1uirhAmrO87ozkihJ4t+yEAsRd1SNZcfXqE4kdL0ne2xLw=="
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +33,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Authority Deva manages Authority ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -46,10 +46,13 @@
   },
   "keywords": [
     "Authority",
+    "Authority Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.legal/issues"
@@ -64,23 +67,23 @@
       "key": "authority",
       "prompt": {
         "emoji": "🚔",
-        "text": "Authority",
+        "text": "#authority",
         "colors": {
           "label": {
-            "R": 193,
-            "G": 230,
-            "B": 135
+            "R": 255,
+            "G": 68,
+            "B": 68
           },
           "text": {
-            "R": 229,
-            "G": 227,
-            "B": 180
+            "R": 68,
+            "G": 90,
+            "B": 255
           }
         }
       },
       "profile": {
         "name": "Authority Deva",
-        "hashtag": "#AuthorityDeva",
+        "hashtag": "#Authority",
         "title": "Authority Deva",
         "subtitle": "The Authority Deva ensuring criminals are caught",
         "describe": "Dedicated guide in navigating the intricate world of authority and governance safeguarding justice.",
@@ -100,6 +103,7 @@
         "background": "/assets/devas/authority/background.png",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM"
       },
       "laws": [

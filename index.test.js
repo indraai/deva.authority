@@ -1,7 +1,7 @@
 "use strict";
-// ©2025 Quinn A Michaels; All rights reserved. 
+// Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:71523984134178103195 LICENSE.md
+// Distributed under VLA:21484631554539747920 LICENSE.md
 
 // Authority Deva Test File
 
