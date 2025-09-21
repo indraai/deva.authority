@@ -9,7 +9,7 @@
 **Link:** https://indra.ai  
 **Copyright:** ©2025 Quinn A Michaels; All rights reserved.
 
-This license agreement (“Agreement”) governs the use of the Justice Deva (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
+This license agreement (“Agreement”) governs the use of the Authority Deva (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
 
 ## Ownership
 
@@ -81,7 +81,7 @@ Fines under this Agreement are denominated in panas, with one pana equal to 3.5 
 
 - Perjury through covetousness fined one thousand panas.
 - Perjury through distraction fined 100 panas.
-- Pergury through fear fine is 500 panas.
+- Perjury through fear fine is 500 panas.
 - Perjury through friendship the fine is 400 panas.
 - Perjury through lust pays ten times the lowest amercement.
 - Perjury through wrath three times the middle amercement.
