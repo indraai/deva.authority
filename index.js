@@ -40,18 +40,6 @@ const AUTHORITY = new Deva({
     process(input) {return input.trim();}
   },
   listeners: {
-    // log the start packet when the Deva enters after start
-    'devacore:start'(packet) {
-      this.func.write_log('start', packet);
-    },
-    // log the enter packet when the Deva enters after start
-    'devacore:enter'(packet) {
-      this.func.write_log('enter', packet);
-    },
-    // log the stop packet when the deva exits the system
-    'devacore:stop'(packet) {
-      this.func.write_log('stop', packet);
-    },
     // log the exit packet when the deva exits the system
     'devacore:exit'(packet) {
       this.func.write_log('exit', packet);
@@ -61,7 +49,9 @@ const AUTHORITY = new Deva({
       this.func.write_log('complete', packet);
     },
   },
-  modules: {},
+  modules: {
+    client: false,
+  },
   func: {
     /**************
     func: write_log
@@ -90,10 +80,10 @@ const AUTHORITY = new Deva({
     // return this.start if license_check passes otherwise stop.
     this.action('return', `onInit:${data.id.uid}`);    
     return license_check ? this.start(data, resolve) : this.stop(data, resolve);
-  }, 
+  },
   onReady(data, resolve) {
     const {VLA} = this.info();
-    
+        
     this.state('get', `mongo:global:${data.id.uid}`);
     const {uri,database, log} = this.authority().global.mongo;
     this.state('set', `mongo:client:${data.id.uid}`);
@@ -102,7 +92,7 @@ const AUTHORITY = new Deva({
     this.vars.database = database;
     this.state('set', `mongo:log:${data.id.uid}`);
     this.vars.log = log;
-
+    this.action('return', `onStart:${data.id.uid}`);    
     
     this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
     this.action('resolve', `onReady:${data.id.uid}`);
