@@ -111,6 +111,7 @@ const AUTHORITY = new Deva({
   onError(err, data, reject) {
     this.prompt(this.vars.messages.error);
     console.log(err);
+    this.action('reject', `onError:${data.id.uid}`);        
     return reject(err);
   }
 });
