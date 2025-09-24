@@ -95,7 +95,7 @@ const AUTHORITY = new Deva({
     const {VLA} = this.info();
     
     this.state('get', `mongo:global:${data.id.uid}`);
-    const {uri,database, log} = this.security().global.mongo;
+    const {uri,database, log} = this.authority().global.mongo;
     this.state('set', `mongo:client:${data.id.uid}`);
     this.modules.client = new MongoClient(uri);
     this.state('set', `mongo:database:${data.id.uid}`);
