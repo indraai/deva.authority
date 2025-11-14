@@ -59,7 +59,7 @@
   },
   "homepage": "https://github.com/indraai/deva.legal#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.21.1",
+    "@indra.ai/deva": "^1.22.0",
     "mongodb": "^6.20.0"
   },
   "data": {
