@@ -37,10 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indraai/deva.legal.git"
+    "url": "git+https://github.com/indraai/deva.authority.git"
   },
   "keywords": [
     "Authority",
+    "Deva",
     "Authority Deva",
     "Indra.ai",
     "Deva.space",
@@ -53,11 +54,12 @@
     "bleuBrain"
   ],
   "bugs": {
-    "url": "https://github.com/indraai/deva.legal/issues"
+    "url": "https://github.com/indraai/deva.authority/issues"
   },
-  "homepage": "https://github.com/indraai/deva.legal#readme",
+  "homepage": "https://github.com/indraai/deva.authority#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.31",
+    "@indra.ai/deva": "^1.30.2",
+    "@indra.ai/deva.police": "^0.9.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -83,12 +85,12 @@
       "profile": {
         "id": "55416480847015973908",
         "name": "Authority Deva",
-        "hashtag": "#Authority",
+        "hashtag": "#AuthorityDeva",
         "title": "Authority Deva",
         "subtitle": "The Authority Deva ensuring criminals are caught",
         "describe": "Dedicated guide in navigating the intricate world of authority and governance safeguarding justice.",
         "tweet": "Dedicated guide in navigating the intricate world of authority and governance.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,AuthorityDeva",
+        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #AuthorityDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "A disciplined authority who follows the law of the land.",
@@ -103,7 +105,7 @@
         "background": "/devas/authority/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "⚠️ A lawful Authority shall apply this law of fines to those who break an agreement. Two kinds of robbers who steal the goods of others have to be distinguished. Those rogues who ravage in their own country shall stripped of their entire wealth and rebuke them severely. Those who give food to criminals, as well as those who supply them with shelter, or show the way, or make their defence, or buy their goods, or receive their goods, and so are those who conceal them are held to be equally punishable as they.",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} TITLE 18, U.S.C., SECTION 242 - Whoever, under color of any law, statute, ordinance, regulation, or custom, willfully subjects any person in any State, Territory, Commonwealth, Possession, or District to the deprivation of any rights, privileges, or immunities secured or protected by the Constitution or laws of the United States, shall be fined under this title or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse, or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title, or imprisoned for any term of years or for life, or both, or may be sentenced to death.",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
         "updated": "Sunday, November 23, 2025 - 5:58:26 PM"
@@ -116,13 +118,13 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ Authority Deva Ready",
+        "ready": "🚔 Authority Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!"
       },
-      "trigger": "@LEGAL",
+      "trigger": "@AUTHORITY",
       "context": {
         "uid": "generating uid",
         "status": "getting status",

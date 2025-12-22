@@ -16,6 +16,8 @@ import {dirname} from 'node:path';
 import {fileURLToPath} from 'node:url';    
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+import police from '/Users/quinnmichaels/Dev/deva.space/devas/deva.police/index.js';
+
 const info = {
   id: pkg.id,
   name: pkg.name,
@@ -52,6 +54,9 @@ const AUTHORITY = new Deva({
   },
   modules: {
     client: false,
+  },
+  devas: {
+    police,
   },
   func: {
     /**************
