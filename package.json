@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.police@latest @indra.ai/deva.fbi@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -59,7 +60,7 @@
   "homepage": "https://github.com/indraai/deva.authority#readme",
   "dependencies": {
     "@indra.ai/deva": "^1.30.2",
-    "@indra.ai/deva.police": "^0.9.0",
+    "@indra.ai/deva.police": "^0.9.2",
     "mongodb": "^6.20.0"
   },
   "data": {
