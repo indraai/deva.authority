@@ -33,7 +33,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const AUTHORITY = new Deva({
+const AuthorityDeva = new Deva({
   info,
   agent,
   vars,
@@ -111,4 +111,4 @@ const AUTHORITY = new Deva({
     return reject(err);
   }
 });
-export default AUTHORITY
+export default AuthorityDeva
