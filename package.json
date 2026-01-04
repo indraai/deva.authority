@@ -59,7 +59,7 @@
   },
   "homepage": "https://github.com/indraai/deva.authority#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.30.2",
+    "@indra.ai/deva": "^1.32.0",
     "@indra.ai/deva.police": "^0.11.0",
     "mongodb": "^6.20.0"
   },
