@@ -1,10 +1,10 @@
 "use strict";
-// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:55837274153724560389 LICENSE.md
-// Sunday, November 23, 2025 - 5:58:26 PM
-
 // Authority Deva
+// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:38159125061624680902 LICENSE.md
+// Thursday, January 8, 2026 - 3:49:13 PM
+
 import Deva from '@indra.ai/deva';
 import { MongoClient, ObjectId } from 'mongodb';
 
@@ -92,13 +92,15 @@ const AuthorityDeva = new Deva({
         
     this.state('get', `mongo:global:${data.id.uid}`);
     const {uri,database, log} = this.authority().global.mongo;
+
     this.state('set', `mongo:client:${data.id.uid}`);
     this.modules.client = new MongoClient(uri);
+
     this.state('set', `mongo:database:${data.id.uid}`);
-    this.vars.database = database;
+    this.vars.database = `${database}-${VLA.uid}`;
+
     this.state('set', `mongo:log:${data.id.uid}`);
-    this.vars.log = log;
-    this.action('return', `onStart:${data.id.uid}`);    
+    this.vars.log = `${log}-${VLA.uid}`;
     
     this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
     this.action('resolve', `onReady:${data.id.uid}`);
