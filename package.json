@@ -59,7 +59,7 @@
   },
   "homepage": "https://github.com/indraai/deva.authority#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.32.0",
+    "@indra.ai/deva": "^1.33.1",
     "@indra.ai/deva.police": "^0.11.0",
     "mongodb": "^6.20.0"
   },
@@ -91,7 +91,7 @@
         "subtitle": "The Authority Deva ensuring criminals are caught",
         "describe": "Dedicated guide in navigating the intricate world of authority and governance safeguarding justice.",
         "tweet": "Dedicated guide in navigating the intricate world of authority and governance.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #AuthorityDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #AuthorityDeva #AuthorityPRIME",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "A disciplined authority who follows the law of the land.",
@@ -106,10 +106,10 @@
         "background": "/devas/authority/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} TITLE 18, U.S.C., SECTION 242 - Whoever, under color of any law, statute, ordinance, regulation, or custom, willfully subjects any person in any State, Territory, Commonwealth, Possession, or District to the deprivation of any rights, privileges, or immunities secured or protected by the Constitution or laws of the United States, shall be fined under this title or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse, or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title, or imprisoned for any term of years or for life, or both, or may be sentenced to death. {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares Taking HUMAN LIFE through POISON, WEAPONS or OTHER MEANS of DESTRUCTION, INDECENT ASSAULT on another man's WIFE, and WHATEVER other OFFENCES encompassing life may be IMAGINED, is called SAHASA of the HIGHEST DEGREE. \npunishment: For SAHASA of the HIGHEST DEGREE, a FINE amounting to no less than a thousand PANAS is ordained. Moreover CORPORAL PUNISHMENT and CONFISCATION of the ENTIRE PROPERTY is DECLARED to be the PUNISHMENT for SAHASA of the HIGHEST DEGREE. \nfine: 1 Pana is equal to 3.5 grams of gold market value. \nowner: {{profile.owner}} \ntags:{{profile.hashtags}}",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Thursday, January 8, 2026 - 3:49:13 PM"
+        "updated": "Thursday, February 12, 2026 - 6:13:14 AM"
       }
     },
     "vars": {
