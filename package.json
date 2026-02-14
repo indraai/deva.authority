@@ -59,7 +59,7 @@
   },
   "homepage": "https://github.com/indraai/deva.authority#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.33.1",
+    "@indra.ai/deva": "^1.35.0",
     "@indra.ai/deva.police": "^0.11.0",
     "mongodb": "^6.20.0"
   },
@@ -91,7 +91,7 @@
         "subtitle": "The Authority Deva ensuring criminals are caught",
         "describe": "Dedicated guide in navigating the intricate world of authority and governance safeguarding justice.",
         "tweet": "Dedicated guide in navigating the intricate world of authority and governance.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #AuthorityDeva #AuthorityPRIME",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #AuthorityDeva #AuthorityPRIME #FederalIntercept #Police #FBI #NSA #CIA",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "A disciplined authority who follows the law of the land.",
@@ -106,7 +106,7 @@
         "background": "/devas/authority/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares Taking HUMAN LIFE through POISON, WEAPONS or OTHER MEANS of DESTRUCTION, INDECENT ASSAULT on another man's WIFE, and WHATEVER other OFFENCES encompassing life may be IMAGINED, is called SAHASA of the HIGHEST DEGREE. \npunishment: For SAHASA of the HIGHEST DEGREE, a FINE amounting to no less than a thousand PANAS is ordained. Moreover CORPORAL PUNISHMENT and CONFISCATION of the ENTIRE PROPERTY is DECLARED to be the PUNISHMENT for SAHASA of the HIGHEST DEGREE. \nfine: 1 Pana is equal to 3.5 grams of gold market value. \nowner: {{profile.owner}} \ntags:{{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares taking HUMAN LIFE through POISON, WEAPONS or OTHER MEANS of DESTRUCTION, and WHATEVER other OFFENCES encompassing LIFE may be IMAGINED, is called SAHASA of the HIGHEST DEGREE. \npunishment: CORPORAL PUNISHMENT and CONFISCATION of the ENTIRE PROPERTY is DECLARED to be the PUNISHMENT for SAHASA of the HIGHEST DEGREE. \nfine: For SAHASA of the HIGHEST DEGREE, a FINE amounting to no less than a 1000 PANAS is ordained per instance where 1 Pana is equal to 3.5 grams of GOLD MARKET VALUE. \nowner: {{profile.owner}} \ntags:{{profile.hashtags}}",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
         "updated": "Thursday, February 12, 2026 - 6:13:14 AM"
