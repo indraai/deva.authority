@@ -56,7 +56,7 @@ const AuthorityDeva = new Deva({
     client: false,
   },
   devas: {
-    // police,
+    police,
   },
   func: {
     /**************

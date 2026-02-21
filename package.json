@@ -60,7 +60,7 @@
   "homepage": "https://github.com/indraai/deva.authority#readme",
   "dependencies": {
     "@indra.ai/deva": "^1.36.0",
-    "@indra.ai/deva.police": "^0.11.0",
+    "@indra.ai/deva.police": "^0.13.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -91,7 +91,7 @@
         "subtitle": "The Authority Deva ensuring criminals are caught",
         "describe": "Dedicated guide in navigating the intricate world of authority and governance safeguarding justice.",
         "tweet": "Dedicated guide in navigating the intricate world of authority and governance.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #AuthorityDeva #AuthorityPRIME #FederalIntercept #Police #FBI #NSA #CIA",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #AuthorityDeva #AuthorityPRIME #FederalIntercept #Police #FBI #NSA #CIA #DHS",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "A disciplined authority who follows the law of the land.",
