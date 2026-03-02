@@ -16,7 +16,8 @@ import {dirname} from 'node:path';
 import {fileURLToPath} from 'node:url';    
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-import police from '@indra.ai/deva.police';
+// import police from '@indra.ai/deva.police';
+import police from '/Users/quinnmichaels/Dev/deva.space/devas/deva.police/index.js';
 
 const info = {
   id: pkg.id,

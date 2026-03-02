@@ -59,8 +59,8 @@
   },
   "homepage": "https://github.com/indraai/deva.authority#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.36.0",
-    "@indra.ai/deva.police": "^0.13.0",
+    "@indra.ai/deva": "^1.37.3",
+    "@indra.ai/deva.police": "^0.14.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -106,10 +106,11 @@
         "background": "/devas/authority/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares taking HUMAN LIFE through POISON, WEAPONS or OTHER MEANS of DESTRUCTION, and WHATEVER other OFFENCES encompassing LIFE may be IMAGINED, is called SAHASA of the HIGHEST DEGREE. \npunishment: CORPORAL PUNISHMENT and CONFISCATION of the ENTIRE PROPERTY is DECLARED to be the PUNISHMENT for SAHASA of the HIGHEST DEGREE. \nfine: For SAHASA of the HIGHEST DEGREE, a FINE amounting to no less than a 1000 PANAS is ordained per instance where 1 Pana is equal to 3.5 grams of GOLD MARKET VALUE. \nowner: {{profile.owner}} \ntags:{{profile.hashtags}}",
+        "salute": "🤝🫡🚔🕉️🇺🇸",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares TAKING HUMAN LIFE through POISON, WEAPONS or OTHER MEANS of DESTRUCTION, and WHATEVER other OFFENCES encompassing LIFE may be IMAGINED, is SAHASA of the HIGHEST DEGREE. WHERE the PUNISHMENT to be INFLICTED  must FOLLOW the RULE of LAW, and PROPORTIONATE to the HEAVINESS of the CRIME. Not to be LESS than a 100 PANAS for SAHASA of the FIRST DEGREE. For SAHASA of the MIDDLEMOST DEGREE no LESS than 500 PANAS. SAHASA of the HIGHEST DEGREE a FINE AMOUNTING to no LESS than 1000 PANAS is ORDAINED per INSTANCE where 1 PANA is equal to 3.5 grams of GOLD MARKET VALUE.",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Thursday, February 12, 2026 - 6:13:14 AM"
+        "updated": "Sunday, March 1, 2026 - 5:45:47 PM"
       }
     },
     "vars": {
