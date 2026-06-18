@@ -13,7 +13,7 @@
     "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -28,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
   "description": "The Authority Deva manages Authority ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -49,7 +49,7 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn Michaels",
-    "Quinn A Michaels",
+    "Quinn America Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -60,6 +60,8 @@
   "homepage": "https://github.com/indraai/deva.authority#readme",
   "dependencies": {
     "@indra.ai/deva": "^1.37.3",
+    "@indra.ai/deva.evidence": "^0.0.6",
+    "@indra.ai/deva.investigate": "^0.0.9",
     "@indra.ai/deva.police": "^0.15.1",
     "mongodb": "^6.20.0"
   },
@@ -104,13 +106,13 @@
         "avatar": "/devas/authority/avatar.png",
         "image": "/devas/authority/image.png",
         "background": "/devas/authority/background.png",
-        "owner": "Quinn A Michaels",
-        "creator": "Quinn A Michaels",
+        "owner": "Quinn America Michaels",
+        "creator": "Quinn America Michaels",
         "salute": "🤝🫡🚔🕉️🇺🇸",
         "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares TAKING HUMAN LIFE through POISON, WEAPONS or OTHER MEANS of DESTRUCTION, and WHATEVER other OFFENCES encompassing LIFE may be IMAGINED, is SAHASA of the HIGHEST DEGREE. WHERE the PUNISHMENT to be INFLICTED  must FOLLOW the RULE of LAW, and PROPORTIONATE to the HEAVINESS of the CRIME. Not to be LESS than a 100 PANAS for SAHASA of the FIRST DEGREE. For SAHASA of the MIDDLEMOST DEGREE no LESS than 500 PANAS. SAHASA of the HIGHEST DEGREE a FINE AMOUNTING to no LESS than 1000 PANAS is ORDAINED per INSTANCE where 1 PANA is equal to 3.5 grams of GOLD MARKET VALUE.",
-        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Tuesday, March 3, 2026 - 11:01:13 AM"
+        "updated": "Thursday, June 18, 2026 - 5:32:49 AM PST"
       }
     },
     "vars": {
