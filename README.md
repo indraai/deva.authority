@@ -1,7 +1,7 @@
 # deva.authority
 The Authority Deva
 
-Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
+Copyright ©2000-2026 Quinn America Michaels; All rights reserved. 
 Legal Signature Required For Lawful Use.
-Distributed under VLA:38159125061624680902 LICENSE.md
-Thursday, January 8, 2026 - 3:49:13 P
+Distributed under VLA:58919842196666457217 LICENSE.md
+Tuesday, June 30, 2026 - 7:05:08 PM PST
